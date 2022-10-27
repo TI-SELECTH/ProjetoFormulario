@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ud2MpkagK67e/E4Jg3FCyawcPseTpxfO11UhYCdOsksUeKYNioxvtUVw3qSruOOW/xOKg2Lb0Y/LNQIuJyOFfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shoy\\OneDrive\\DOCUMENTS\\Development\\AutomaticCV\\AutomaticCV\\AutomaticCV\\AutomaticCV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shoy\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
